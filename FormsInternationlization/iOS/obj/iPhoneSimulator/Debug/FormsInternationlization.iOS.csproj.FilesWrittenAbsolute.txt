@@ -1,0 +1,15 @@
+/Users/neuuser/Projects/FormsInternationlization/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/neuuser/Projects/FormsInternationlization/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/neuuser/Projects/FormsInternationlization/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/neuuser/Projects/FormsInternationlization/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/neuuser/Projects/FormsInternationlization/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/neuuser/Projects/FormsInternationlization/iOS/bin/iPhoneSimulator/Debug/FormsInternationlization.iOS.exe.mdb
+/Users/neuuser/Projects/FormsInternationlization/iOS/bin/iPhoneSimulator/Debug/FormsInternationlization.iOS.exe
+/Users/neuuser/Projects/FormsInternationlization/iOS/obj/iPhoneSimulator/Debug/FormsInternationlization.iOS.exe
+/Users/neuuser/Projects/FormsInternationlization/iOS/obj/iPhoneSimulator/Debug/FormsInternationlization.iOS.exe.mdb
+/Users/neuuser/Projects/FormsInternationlization/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/neuuser/Projects/FormsInternationlization/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/neuuser/Projects/FormsInternationlization/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/neuuser/Projects/FormsInternationlization/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/neuuser/Projects/FormsInternationlization/iOS/bin/iPhoneSimulator/Debug/FormsInternationlization.dll
+/Users/neuuser/Projects/FormsInternationlization/iOS/bin/iPhoneSimulator/Debug/FormsInternationlization.dll.mdb

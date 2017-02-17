@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{677AE9AC-AD52-4274-804F-F2F756254F4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="FormsInternationlization/Multilanguage.cs" Line="31" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="31" Column="4" />
+      <File FileName="iOS/AppDelegate.cs" Line="20" Column="6" />
+      <File FileName="FormsInternationlization/FormsInternationlizationPage.xaml" Line="9" Column="16" />
+      <File FileName="FormsInternationlization/HomeViewModel.cs" Line="16" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FormsInternationlization.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6D90908F-BAC3-44E0-A2FE-1FB178C7C5B5" />
+</Properties>
